@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0.6X0.8MM
+D PAD 0.6MM X 0.8MM
+K Pad Test point
+F ~
+$ENDCMP
+#
+$CMP EmbedMeadow
+D Schmatic symbol for the pins
+$ENDCMP
+#
+#End Doc Library

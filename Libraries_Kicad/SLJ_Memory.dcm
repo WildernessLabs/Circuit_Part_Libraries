@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IS42S16160J-7BLI
+D SDRAM Memory IC 256Mb (16M x 16) Parallel 143MHz 5.4ns 54-TFBGA (8x8)
+F http://www.issi.com/WW/pdf/42-45S83200J-16160J.pdf
+$ENDCMP
+#
+$CMP S25FL256LAG
+D FLASH - NOR Memory IC 256Mb (32M x 8) SPI - Quad I/O, QPI 133MHz 24-BGA (6x8) DUAL FOOTPRINT SYMBOL
+F https://www.cypress.com/file/316171/download
+$ENDCMP
+#
+#End Doc Library

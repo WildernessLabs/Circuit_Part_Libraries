@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A-1JB
+D U.FL (UMCC), AMC Connector Jack, Male Pin 50Ohm Surface Mount Solder
+K CONN UMC JACK STR 50 OHM SMD
+F https://www.amphenolrf.com/media/downloads/3960/CA-1JB.pdf
+$ENDCMP
+#
+$CMP SKYA21001
+D RF Switch IC Bluetooth, WLAN SPDT 3GHz 50Ohm SC-70-6
+K IC RF SWITCH SPDT 3GHZ SC70-6
+F https://www.mouser.com/datasheet/2/472/SKYA21001_202936H-1524709.pdf
+$ENDCMP
+#
+$CMP W3008
+D 2.4GHz Bluetooth Chip RF Antenna 2.4GHz ~ 2.483GHz 1.7dBi Solder Surface Mount
+K RF ANT 2.4GHZ CHIP SOLDER SMD
+F https://source.z2data.com/2019/5/5/2/28/32/733/W3008.pdf
+$ENDCMP
+#
+#End Doc Library

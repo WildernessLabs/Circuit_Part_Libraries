@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCP1597A
+D IC REG BUCK ADJUSTABLE 2A 6DFN
+K Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 2A 6-VDFN Exposed Pad
+F https://www.onsemi.com/pub/Collateral/NCP1597-D.PDF
+$ENDCMP
+#
+#End Doc Library

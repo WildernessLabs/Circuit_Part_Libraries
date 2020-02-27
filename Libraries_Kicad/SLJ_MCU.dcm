@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-PICO-D4
+D Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 + EDR, Class 1, 2 and 3 Transceiver Module 2.4GHz ~ 2.5GHz  Surface Mount
+K WIFI BLUETOOTH ESP32
+F https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf
+$ENDCMP
+#
+#End Doc Library

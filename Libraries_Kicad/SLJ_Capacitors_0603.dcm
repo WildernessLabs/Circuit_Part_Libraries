@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C_0603_22UF_10V_X5R
+D CAP CER 22UF 10V X5R 0603
+K 22µF ±20% 10V Ceramic Capacitor X5R 0603 (1608 Metric)
+F ~
+$ENDCMP
+#
+$CMP C_0603_22UF_6V3_X5R
+D CAP CER 22UF 6.3V X5R 0603
+K 22µF ±20% 6.3V Ceramic Capacitor X5R 0603 (1608 Metric)
+F ~
+$ENDCMP
+#
+#End Doc Library

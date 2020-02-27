@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C_0402_0.1UF_10V_X5R
+D CAP CER 0.1UF 10V X5R 0402
+K 0.1µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric)
+F ~
+$ENDCMP
+#
+#End Doc Library
