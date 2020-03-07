@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EGUARD0502BTR
+D DIODE ESD ULTRA LOW CAPACITANCE
+K 15V Clamp  Ipp Tvs Diode Surface Mount SOT-523
+F http://www.smc-diodes.com/propdf/eGuard0502B%20N2117%20REV.-.pdf
+$ENDCMP
+#
+#End Doc Library

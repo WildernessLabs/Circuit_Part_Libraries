@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 104031-0811
+D CONN MICRO SD CARD PUSH-PULL R/A
+K 10 (8 + 2) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold
+F https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf
+$ENDCMP
+#
 $CMP ARJM11A3-009-AB
 D CONN MAGJACK 1PORT 100BASE-T PCB RJ45
 K 1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX Transformer

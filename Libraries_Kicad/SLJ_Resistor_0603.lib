@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# R_0R_1%_0603
+#
+DEF R_0R_1%_0603 R 0 0 N Y 1 F N
+F0 "R" 100 50 50 V V C CNN
+F1 "R_0R_1%_0603" -15 -593 50 H I C CNN
+F2 "Resistors_SMD:R_0603" -26 -433 50 H I C CNN
+F3 "" 0 50 50 H I C CNN
+F4 "Yageo" -37 -661 50 H I C CNN "MF"
+F5 "RC0603JR-070RL" -42 -524 50 H I C CNN "PN"
+F6 "0" -98 44 50 V V C CNN "Res_value"
+F7 "Panasonic" 0 0 50 H I C CNN "MF2"
+F8 "ERJ-3GEY0R00V" 0 0 50 H I C CNN "PN2"
+F9 "1%" 0 0 50 H I C CNN "Tolerance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 0 -40 0 -50 N
+P 2 0 1 0 0 140 0 150 N
+P 5 0 1 0 0 20 40 5 0 -10 -40 -25 0 -40 N
+P 5 0 1 0 0 80 40 65 0 50 -40 35 0 20 N
+P 5 0 1 0 0 140 40 125 0 110 -40 95 0 80 N
+X ~ 1 0 200 50 D 50 50 1 1 P
+X ~ 2 0 -100 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

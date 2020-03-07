@@ -10,4 +10,9 @@ $CMP EmbedMeadow
 D Schmatic symbol for the pins
 $ENDCMP
 #
+$CMP Meadow_Embedded_Module
+D Embedded Module
+K Wilderness Labs Wifi Bluetooth Module
+$ENDCMP
+#
 #End Doc Library
