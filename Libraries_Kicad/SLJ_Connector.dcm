@@ -12,6 +12,22 @@ K 1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX Transformer
 F https://abracon.com/Magnetics/ARJM11.pdf
 $ENDCMP
 #
+$CMP FTSH-107-01-L-DV-K-A
+D CONN HEADER SMD 14POS 1.27MM
+K Connector Header Surface Mount 14 position 0.050" (1.27mm)
+F http://suddendocs.samtec.com/catalog_english/ftsh_smt.pdf
+$ENDCMP
+#
+$CMP MicroF7Meadow
+D MICRO MEADOW FOOT PRINT
+$ENDCMP
+#
+$CMP SAMTEC-FTSH-105-01-X-D
+D CONN HEADER SMD 10POS 1.27MM
+K Connector Header Surface Mount 10 position 0.050" (1.27mm)
+F http://suddendocs.samtec.com/catalog_english/ftsh_smt.pdf
+$ENDCMP
+#
 $CMP USB2514B_Bi
 D USB 2.0 Hi-Speed Hub Controller
 K USB2.0 Hi-Speed-USB-Hub Hub-Controller

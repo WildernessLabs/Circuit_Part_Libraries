@@ -6,4 +6,10 @@ K P-Channel 12V 3.5A (Ta) 1W (Ta) Surface Mount SC-70FL/MCPH3
 F https://www.onsemi.cn/PowerSolutions/document/MCH3383-D.PDF
 $ENDCMP
 #
+$CMP N-CH_DMG1012UW-7
+D MOSFET N-CH 20V 1A SOT323
+K N-Channel 20V 1A (Ta) 290mW (Ta) Surface Mount SOT-323
+F https://www.diodes.com/assets/Datasheets/ds31859.pdf
+$ENDCMP
+#
 #End Doc Library

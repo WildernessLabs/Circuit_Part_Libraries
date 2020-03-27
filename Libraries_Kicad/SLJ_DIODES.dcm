@@ -1,9 +1,27 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BAT60J
+D DIODE SCHOTTKY 10V 3A SOD323
+K Diode Schottky 10V 3A (DC) Surface Mount SOD-323
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/3d/d2/27/1d/20/e3/4d/48/CD00001944.pdf/files/CD00001944.pdf/jcr:content/translations/en.CD00001944.pdf
+$ENDCMP
+#
 $CMP EGUARD0502BTR
 D DIODE ESD ULTRA LOW CAPACITANCE
 K 15V Clamp  Ipp Tvs Diode Surface Mount SOT-523
 F http://www.smc-diodes.com/propdf/eGuard0502B%20N2117%20REV.-.pdf
+$ENDCMP
+#
+$CMP LED_B_EAST1005BA0
+D LED BLUE CLEAR 2SMD
+K Blue 471nm LED Indication - Discrete 3.3V 0402 (1005 Metric)
+F https://everlightamericas.com/index.php?controller=attachment&id_attachment=885
+$ENDCMP
+#
+$CMP LED_G_EAST10052GA0
+D LED GREEN CLEAR 2SMD
+K Green  LED Indication - Discrete 2.95V 0402 (1005 Metric)
+F https://everlightamericas.com/index.php?controller=attachment&id_attachment=3256
 $ENDCMP
 #
 #End Doc Library

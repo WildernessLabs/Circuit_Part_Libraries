@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +3.3V
+D Power symbol creates a global label with name "+3.3V"
+K power-flag
+$ENDCMP
+#
+$CMP +3V3
+D Power symbol creates a global label with name "+3V3"
+K power-flag
+$ENDCMP
+#
 $CMP NCP1597A
 D IC REG BUCK ADJUSTABLE 2A 6DFN
 K Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 2A 6-VDFN Exposed Pad
