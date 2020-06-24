@@ -18,6 +18,18 @@ K Connector Header Surface Mount 14 position 0.050" (1.27mm)
 F http://suddendocs.samtec.com/catalog_english/ftsh_smt.pdf
 $ENDCMP
 #
+$CMP J0011D01BNL
+D CONN MAGJACK 1PORT 100 BASE-TX RJ45
+K 1 Port RJ45 Magjack Connector Through Hole 10/100 Base-TX, AutoMDIX
+F https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/J403/doc_part/J403.pdf
+$ENDCMP
+#
+$CMP MEADOWF7MICRO_WITH_OUTLINE
+D F7 micro development kit
+K STm32F7 Meadow
+F https://store.wildernesslabs.co/collections/frontpage/products/meadow-f7
+$ENDCMP
+#
 $CMP MicroF7Meadow
 D MICRO MEADOW FOOT PRINT
 $ENDCMP

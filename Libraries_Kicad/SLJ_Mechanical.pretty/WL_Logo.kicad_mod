@@ -1,0 +1,8 @@
+(module WL_Logo (layer F.Cu) (tedit 5E9B55ED)
+  (fp_text reference REF** (at 0 0.381) (layer F.SilkS)
+    (effects (font (size 0.762 0.762) (thickness 0.1016)))
+  )
+  (fp_text value WL_Logo (at 0 -0.381) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

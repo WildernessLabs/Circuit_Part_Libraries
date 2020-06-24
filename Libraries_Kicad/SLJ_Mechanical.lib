@@ -110,12 +110,26 @@ X ~ 9 -1600 700 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
+# MTH_3.3MM_5.7MM
+#
+DEF MTH_3.3MM_5.7MM MTH 0 0 N N 1 F N
+F0 "MTH" 0 200 50 H V C CNN
+F1 "MTH_3.3MM_5.7MM" 0 100 50 H V C CNN
+F2 "SLJ_Mechanical:MTH_3.3MM_5.7MM" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "DNI" 100 -100 50 H I C CNN "DNI"
+DRAW
+C 0 0 50 0 1 0 N
+X 1 ~ 0 -100 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Meadow_Embedded_Module
 #
 DEF Meadow_Embedded_Module U 0 40 Y Y 1 F N
 F0 "U" 300 1700 50 H V C CNN
 F1 "Meadow_Embedded_Module" -700 1700 50 H V C CNN
-F2 "SLJ_Mechanical:MeadowEmbeded_OnModule" -800 -200 50 H I C CNN
+F2 "SLJ_Mechanical:MeadowEmbeded" -800 -200 50 H I C CNN
 F3 "" -900 -200 50 H I C CNN
 F4 "Winderness Labs" 0 0 50 H V C CNN "MF"
 F5 "WL-F7EM-1A" 0 0 50 H V C CNN "PN"
@@ -221,6 +235,42 @@ X 1 1 -200 0 100 R 50 50 0 1 P
 X 2 2 200 0 100 L 50 50 0 1 P
 X 3 3 200 0 200 L 50 50 1 1 P N
 X 4 4 -200 0 200 R 50 50 1 1 P N
+ENDDRAW
+ENDDEF
+#
+# TestPoint_SMT_25mil
+#
+DEF TestPoint_SMT_25mil TP 0 30 N N 1 F N
+F0 "TP" 0 270 50 H V C CNN
+F1 "TestPoint_SMT_25mil" 0 200 50 H V C CNN
+F2 "SLJ_Mechanical:PAD_RD_0.63" 200 0 50 H I C CNN
+F3 "" 200 0 50 H I C CNN
+F4 "DNI" 0 0 50 H V C CNN "DNI"
+$FPLIST
+ Pin*
+ Test*
+$ENDFPLIST
+DRAW
+C 0 130 30 0 1 0 N
+X 1 1 0 0 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# TestPoint_SMT_loop_1X1.8MM
+#
+DEF TestPoint_SMT_loop_1X1.8MM TP 0 30 N N 1 F N
+F0 "TP" 0 270 50 H V C CNN
+F1 "TestPoint_SMT_loop_1X1.8MM" 0 200 50 H V C CNN
+F2 "SLJ_Mechanical:TP_S2761-46R" 200 0 50 H I C CNN
+F3 "" 200 0 50 H I C CNN
+F4 "DNI" 0 0 50 H V C CNN "DNI"
+$FPLIST
+ Pin*
+ Test*
+$ENDFPLIST
+DRAW
+C 0 130 30 0 1 0 N
+X 1 1 0 0 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #

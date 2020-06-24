@@ -6,4 +6,10 @@ K 0 Ohms Jumper 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant 
 F ~
 $ENDCMP
 #
+$CMP R_10k_1%_0603
+D RES SMD 10K OHM 1% 1/10W 0603
+K 10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film
+F ~
+$ENDCMP
+#
 #End Doc Library

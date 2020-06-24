@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 24FC512
+D IC EEPROM 512K I2C 1MHZ 8SOIJ
+K EEPROM Memory IC 512Kb (64K x 8) I²C 1MHz 400ns 8-SOIJ
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21754M.pdf
+$ENDCMP
+#
 $CMP IS42S16160J-7BLI
 D SDRAM Memory IC 256Mb (16M x 16) Parallel 143MHz 5.4ns 54-TFBGA (8x8)
 F http://www.issi.com/WW/pdf/42-45S83200J-16160J.pdf
