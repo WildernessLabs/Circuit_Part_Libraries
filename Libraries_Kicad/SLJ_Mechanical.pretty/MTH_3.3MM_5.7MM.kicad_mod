@@ -1,6 +1,6 @@
-(module MTH_3.3MM_5.7MM (layer F.Cu) (tedit 5E967404)
+(module MTH_3.3MM_5.7MM (layer F.Cu) (tedit 5F42DD23)
   (fp_text reference REF** (at 0 0.381) (layer F.SilkS)
-    (effects (font (size 0.762 0.762) (thickness 0.1016)))
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
   (fp_text value MTH_3.3MM_5.7MM (at 0 -0.381) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
