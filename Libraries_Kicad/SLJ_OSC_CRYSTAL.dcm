@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ABM12W-24.0000MHZ-6-B1U-T3
+D 24MHz ±10ppm Crystal 6pF 150 Ohms 4-SMD, No Lead
+K CRYSTAL 24.0000MHZ 6PF SMD
+F https://abracon.com/Resonators/ABM12W.pdf
+$ENDCMP
+#
 $CMP ABM12W-25.0000MHZ-6-B1U-T3
 D 25MHz ±10ppm Crystal 6pF 150 Ohms 4-SMD, No Lead
 K CRYSTAL 25.0000MHZ 6PF SMD
