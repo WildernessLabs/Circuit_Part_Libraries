@@ -12,6 +12,12 @@ K 15V Clamp  Ipp Tvs Diode Surface Mount SOT-523
 F http://www.smc-diodes.com/propdf/eGuard0502B%20N2117%20REV.-.pdf
 $ENDCMP
 #
+$CMP LED_A_IN-S42BT5A
+D LED AMBER CLEAR 0402
+K Amber 605nm LED Indication - Discrete 2V 0402 (1005 Metric)
+F https://everlightamericas.com/index.php?controller=attachment&id_attachment=885
+$ENDCMP
+#
 $CMP LED_B_EAST1005BA0
 D LED BLUE CLEAR 2SMD
 K Blue 471nm LED Indication - Discrete 3.3V 0402 (1005 Metric)
