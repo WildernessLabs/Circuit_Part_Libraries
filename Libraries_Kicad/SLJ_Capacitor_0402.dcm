@@ -18,6 +18,18 @@ K 0.1µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric)
 F ~
 $ENDCMP
 #
+$CMP C_0402_20pF_25V_NP0
+D CAP CER 20PF 25V NP0 0402
+K ±5% 25V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)
+F ~
+$ENDCMP
+#
+$CMP C_0402_4.7UF_10V_X5R_10%
+D CAP CER 4.7UF 6.3V X5R 0402
+K ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)
+F ~
+$ENDCMP
+#
 $CMP C_0402_470pF_50V_X5R
 D CAP CER 470PF 50V X7R 0402
 K 470pF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)

@@ -6,6 +6,12 @@ K Ethernet Switch 10/100 Base-T/TX PHY I²C Interface 88-QFN (12x12)
 F http://ww1.microchip.com/downloads/en/DeviceDoc/00001927A.pdf
 $ENDCMP
 #
+$CMP SN74LVC125ARGYR
+D Buffer, Non-Inverting 4 Element 1 Bit per Element 3-State Output 14-VQFN (3.5x3.5)
+K IC BUF NON-INVERT 3.6V 14VQFN
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc125a
+$ENDCMP
+#
 $CMP USB2517-JZX-TR
 D IC USB 2.0 7PORT HUB CTLR 64QFN
 K USB Hub Controller USB 2.0 USB Interface 64-QFN (9x9)

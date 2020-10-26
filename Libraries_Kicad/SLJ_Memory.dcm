@@ -11,6 +11,12 @@ D SDRAM Memory IC 256Mb (16M x 16) Parallel 143MHz 5.4ns 54-TFBGA (8x8)
 F http://www.issi.com/WW/pdf/42-45S83200J-16160J.pdf
 $ENDCMP
 #
+$CMP M93C46-WMN6TP
+D EEPROM Memory IC 1Kb (128 x 8, 64 x 16) SPI 8-SO
+K IC EEPROM 1K SPI 2MHZ 8SO
+F https://www.st.com/resource/en/datasheet/m93c46-w.pdf
+$ENDCMP
+#
 $CMP S25FL256LAG
 D FLASH - NOR Memory IC 256Mb (32M x 8) SPI - Quad I/O, QPI 133MHz 24-BGA (6x8) DUAL FOOTPRINT SYMBOL
 F https://www.cypress.com/file/316171/download

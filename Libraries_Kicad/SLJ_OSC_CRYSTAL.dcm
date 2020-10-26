@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 7V-12.000MDDE-T
+D ±20ppm Crystal 12pF 4-SMD, No Lead 3.2MM X 2.5MM 12.000MHZ
+K CRYSTAL 12MHZ 12PF SMD
+F http://txccrystal.com/images/pdf/7v.pdf
+$ENDCMP
+#
 $CMP ABM12W-24.0000MHZ-6-B1U-T3
 D 24MHz ±10ppm Crystal 6pF 150 Ohms 4-SMD, No Lead
 K CRYSTAL 24.0000MHZ 6PF SMD
