@@ -6,6 +6,12 @@ K 220 Ohms @ 100MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 2.2A 50mOhm
 F https://media.digikey.com/pdf/Data%20Sheets/Murata%20PDFs/BLM18yyyyyyN1x.pdf
 $ENDCMP
 #
+$CMP BEAD_ILBB0603ER102V
+D FERRITE BEAD 1 KOHM 0603 1LN
+K Ferrite Bead 0603 (1608 Metric) 100mA 600mOhm
+F https://www.vishay.com/docs/34024/ilbb0603.pdf
+$ENDCMP
+#
 $CMP L_3.3uH_2.4A_SMT_4x4
 D FIXED IND 3.3UH 2.4A 40 MOHM SMD
 K 3.3µH Shielded Wirewound Inductor 2.4A 40mOhm Nonstandard

@@ -6,6 +6,12 @@ K 10 (8 + 2) Position Card Connector Secure Digital - microSD™ Surface Mount, 
 F https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf
 $ENDCMP
 #
+$CMP 75869-131LF
+D Connector Header Through Hole 6 position 0.100" (2.54mm) 02x03
+K CONN HEADER VERT 6POS 2.54MM 02 x03
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/75869.pdf?__cf_chl_jschl_tk__=6d6dea851f47440a09d8ef3bb26cc571162a6a09-1604179822-0-AeE35HAE92fiMOWwJxJ3h9ldzXTHG5S5zk45qeADH-G2VKQv3DMMQBg9AQwJdAfP36KA8Qi4ql2fO5JES8Yx17JH-COpdQIb9MN9IZy31zIQbsrryVglLcGRydkmRNy3rSARFDuB_k4KfCOkQu5Fho3EBX4wXb7YEwr8Enp-By1fCjIwgxSrJvzRzoq1qtLiQ7Y-iZacfgkxCQjkLTgnnFYp4lZP3rywp7LWp5sz4eHMmdOODDbjMJVxKy2PpEYQaEAYFRdyy-Q5KFCfzMVGzh0DlYoj7kAyurJpkyDjyPt69EIARaVT03udLWIglpeOvRsy5Yw0Xb7uaO3DqZpE3lbn0o_S7NIdzGLSuRbnzinMSh9kjo32uEsacd22y8hIXA
+$ENDCMP
+#
 $CMP ARJM11A3-009-AB
 D CONN MAGJACK 1PORT 100BASE-T PCB RJ45
 K 1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX Transformer
