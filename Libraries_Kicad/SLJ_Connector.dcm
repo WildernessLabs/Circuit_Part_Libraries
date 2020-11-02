@@ -46,6 +46,12 @@ K Connector Header Surface Mount 10 position 0.050" (1.27mm)
 F http://suddendocs.samtec.com/catalog_english/ftsh_smt.pdf
 $ENDCMP
 #
+$CMP USB-A-S-F-W-TH
+D USB-A (USB TYPE-A) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle
+K CONN RCPT USB2.0 TYPEA 4POS R/A
+F http://suddendocs.samtec.com/prints/usb-a-s-x-x-th-x-mkt.pdf
+$ENDCMP
+#
 $CMP USB2514B_Bi
 D USB 2.0 Hi-Speed Hub Controller
 K USB2.0 Hi-Speed-USB-Hub Hub-Controller
