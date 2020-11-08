@@ -18,4 +18,10 @@ K N-Channel 20V 1A (Ta) 290mW (Ta) Surface Mount SOT-323
 F https://www.diodes.com/assets/Datasheets/ds31859.pdf
 $ENDCMP
 #
+$CMP P-CH_STL6P3LLH6
+D P-Channel 6A (Tc) 2.9W (Tc) Surface Mount PowerFlat™ (3.3x3.3)
+K MOSFET P-CH 30V 6A POWERFLAT
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/3c/90/16/29/a8/76/48/02/DM00064617.pdf/files/DM00064617.pdf/jcr:content/translations/en.DM00064617.pdf
+$ENDCMP
+#
 #End Doc Library

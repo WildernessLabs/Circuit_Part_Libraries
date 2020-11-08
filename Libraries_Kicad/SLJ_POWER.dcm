@@ -1,19 +1,21 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP +3.3V
-D Power symbol creates a global label with name "+3.3V"
-K power-flag
-$ENDCMP
-#
-$CMP +3V3
-D Power symbol creates a global label with name "+3V3"
-K power-flag
+$CMP MIC2026-1YM
+D IC PWR SWITCH N-CHAN 1:2 8SOIC
+K Dual Power Switch/Driver USB
+F https://ww1.microchip.com/downloads/en/DeviceDoc/mic2026a-76a.pdf
 $ENDCMP
 #
 $CMP NCP1597A
 D IC REG BUCK ADJUSTABLE 2A 6DFN
 K Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 2A 6-VDFN Exposed Pad
 F https://www.onsemi.com/pub/Collateral/NCP1597-D.PDF
+$ENDCMP
+#
+$CMP STUSB4500QTR
+D Stand-alone USB PD controller (with sink Auto-run mode), QFN-24
+K USB PD Type C Sink
+F https://www.st.com/resource/en/datasheet/stusb4500.pdf
 $ENDCMP
 #
 #End Doc Library
