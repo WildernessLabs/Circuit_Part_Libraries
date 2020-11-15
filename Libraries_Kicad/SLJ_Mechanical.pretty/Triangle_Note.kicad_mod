@@ -1,0 +1,16 @@
+(module Triangle_Note (layer F.Cu) (tedit 5FB0A255)
+  (descr "Triangle with a number in it drawing")
+  (attr virtual)
+  (fp_text reference REF** (at 0.2 1.7) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Triangle_Note (at 0.5 -3.2) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user "#." (at 0.1 -0.7) (layer Dwgs.User)
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
+  )
+  (fp_line (start 0 -1.8) (end -1.1 -0.1) (layer Dwgs.User) (width 0.12))
+  (fp_line (start -1.1 -0.1) (end 1.1 -0.1) (layer Dwgs.User) (width 0.12))
+  (fp_line (start 1.1 -0.1) (end 0 -1.8) (layer Dwgs.User) (width 0.12))
+)
