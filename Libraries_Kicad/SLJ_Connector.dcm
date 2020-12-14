@@ -18,6 +18,12 @@ K 1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX Transformer
 F https://abracon.com/Magnetics/ARJM11.pdf
 $ENDCMP
 #
+$CMP FLE-105-01-G-DV-A-K-TR
+D CONN RCPT 10POS 0.05 GOLD SMD 1.27MM
+K 10 Position Receptacle Connector  Surface Mount 1.27mm 0.05"
+F http://suddendocs.samtec.com/catalog_english/fle_sm.pdf
+$ENDCMP
+#
 $CMP FTSH-107-01-L-DV-K-A
 D CONN HEADER SMD 14POS 1.27MM
 K Connector Header Surface Mount 14 position 0.050" (1.27mm)
