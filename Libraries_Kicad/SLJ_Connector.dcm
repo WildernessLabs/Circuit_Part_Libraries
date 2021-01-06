@@ -70,4 +70,16 @@ K USB - C (Type - C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surfa
 F https://www.usb.org/sites/default/files/documents/usb_type-c.zip
 $ENDCMP
 #
+$CMP USB4105-GF-A_copy
+D CONN RCPT USB2.0 TYPEC 5A USBC
+K USB - C (Type - C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole
+F https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+$ENDCMP
+#
+$CMP USB4110-GF-A
+D CONN RCPT USB2.0 TYPEC 5A USBC
+K USB - C (Type - C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole
+F https://gct.co/files/drawings/usb4110.pdf
+$ENDCMP
+#
 #End Doc Library
