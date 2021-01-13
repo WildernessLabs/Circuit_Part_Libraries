@@ -6,6 +6,12 @@ K IC PWR SWITCH P-CHANNEL 1:1 6DFN
 F https://www.diodes.com/assets/Datasheets/AP2141D_51D.pdf
 $ENDCMP
 #
+$CMP LM1117-3.3
+D 800mA Low-Dropout Linear Regulator, 1.8V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F https://www.ti.com/lit/ds/symlink/lm1117.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1610510452601
+$ENDCMP
+#
 $CMP MCP73831T-2A
 D Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Open-Drain Status Output, in SOT23-5 package
 K IC BATT CNTL LI-ION 1CEL SOT23-5
@@ -28,6 +34,12 @@ $CMP STUSB4500QTR
 D Stand-alone USB PD controller (with sink Auto-run mode), QFN-24
 K USB PD Type C Sink
 F https://www.st.com/resource/en/datasheet/stusb4500.pdf
+$ENDCMP
+#
+$CMP TPS2065CDBVR-2
+D Power Switch ICs - Power Distribution Sgl Ch Current-Ltd USB Pwr Disti Switch
+K USB power switch
+F http://www.ti.com/lit/gpn/TPS2065C-2
 $ENDCMP
 #
 $CMP TUSB320LAIRWBR

@@ -18,6 +18,12 @@ K N-Channel 20V 1A (Ta) 290mW (Ta) Surface Mount SOT-323
 F https://www.diodes.com/assets/Datasheets/ds31859.pdf
 $ENDCMP
 #
+$CMP N-CH_RV1C002UNT2CL
+D N-Channel 20V 150mA (Ta) 100mW (Ta) Surface Mount VML0806
+K MOSFET N-CH 20V 150MA VML0806
+F https://d1d2qsbl8m0m72.cloudfront.net/en/products/databook/datasheet/discrete/transistor/mosfet/rv1c002un-e.pdf
+$ENDCMP
+#
 $CMP P-CH_SSM3J46CTB
 D P-Channel 20V 2A (Ta)  Surface Mount CST3B
 K MOSFET P-CH 20V 2A CST3B

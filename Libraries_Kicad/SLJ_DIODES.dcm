@@ -36,4 +36,10 @@ K Green  LED Indication - Discrete 2.95V 0402 (1005 Metric)
 F https://everlightamericas.com/index.php?controller=attachment&id_attachment=3256
 $ENDCMP
 #
+$CMP LED_O_QBLP595-O
+D Orange 605nm LED Indication - Discrete 2V 0402 (1005 Metric)
+K LED ORANGE CLEAR 0402 SMD
+F https://everlightamericas.com/index.php?controller=attachment&id_attachment=885
+$ENDCMP
+#
 #End Doc Library

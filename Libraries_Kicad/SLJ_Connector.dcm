@@ -46,6 +46,12 @@ $CMP MicroF7Meadow
 D MICRO MEADOW FOOT PRINT
 $ENDCMP
 #
+$CMP S2B-PH-SM4-TB(LF)(SN)
+D Connector Header Surface Mount, Right Angle 2 position 0.059" (1.50mm)
+K CONN HEADER SMD R/A 2POS 1.5MM
+F http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+$ENDCMP
+#
 $CMP SAMTEC-FTSH-105-01-X-D
 D CONN HEADER SMD 10POS 1.27MM
 K Connector Header Surface Mount 10 position 0.050" (1.27mm)
