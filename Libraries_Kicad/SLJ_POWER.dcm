@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP2151DFMG-7
+D Power Switch/Driver 1:1 P-Channel 500mA 6-DFN2018 (2.0x1.8)
+K IC PWR SWITCH P-CHANNEL 1:1 6DFN
+F https://www.diodes.com/assets/Datasheets/AP2141D_51D.pdf
+$ENDCMP
+#
+$CMP MCP73831T-2A
+D Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Open-Drain Status Output, in SOT23-5 package
+K IC BATT CNTL LI-ION 1CEL SOT23-5
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73831-Family-Data-Sheet-DS20001984H.pdf
+$ENDCMP
+#
 $CMP MIC2026-1YM
 D IC PWR SWITCH N-CHAN 1:2 8SOIC
 K Dual Power Switch/Driver USB
@@ -16,6 +28,12 @@ $CMP STUSB4500QTR
 D Stand-alone USB PD controller (with sink Auto-run mode), QFN-24
 K USB PD Type C Sink
 F https://www.st.com/resource/en/datasheet/stusb4500.pdf
+$ENDCMP
+#
+$CMP TUSB320LAIRWBR
+D USB, Type-C Configuration PMIC 12-X2QFN (1.6x1.6)
+K IC USB TYPE-C LOGIC/PORT 12X2QFN
+F https://www.ti.com/lit/ds/symlink/tusb320hai.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1610077931252
 $ENDCMP
 #
 #End Doc Library

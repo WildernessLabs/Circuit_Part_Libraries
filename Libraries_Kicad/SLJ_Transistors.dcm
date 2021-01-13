@@ -18,6 +18,12 @@ K N-Channel 20V 1A (Ta) 290mW (Ta) Surface Mount SOT-323
 F https://www.diodes.com/assets/Datasheets/ds31859.pdf
 $ENDCMP
 #
+$CMP P-CH_SSM3J46CTB
+D P-Channel 20V 2A (Ta)  Surface Mount CST3B
+K MOSFET P-CH 20V 2A CST3B
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=1707&prodName=SSM3J46CTB
+$ENDCMP
+#
 $CMP P-CH_STL6P3LLH6
 D P-Channel 6A (Tc) 2.9W (Tc) Surface Mount PowerFlat™ (3.3x3.3)
 K MOSFET P-CH 30V 6A POWERFLAT

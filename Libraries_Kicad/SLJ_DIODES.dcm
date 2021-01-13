@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BAT60A
+D Diode Schottky 10V 3A (DC) Surface Mount PG-SOD323-2
+K DIODE SCHOTTKY 10V 3A SOD323-2
+F https://www.infineon.com/dgdl/bat60aseries.pdf?folderId=db3a304313d846880113def5812204a1&fileId=db3a304313d846880113def70c9304a9
+$ENDCMP
+#
 $CMP BAT60J
 D DIODE SCHOTTKY 10V 3A SOD323
 K Diode Schottky 10V 3A (DC) Surface Mount SOD-323
