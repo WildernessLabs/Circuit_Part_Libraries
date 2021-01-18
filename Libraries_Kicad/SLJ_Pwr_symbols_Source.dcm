@@ -8,4 +8,8 @@ $CMP +5V0
 K POWER, PWR
 $ENDCMP
 #
+$CMP +VBAT
+K POWER, PWR
+$ENDCMP
+#
 #End Doc Library

@@ -20,6 +20,12 @@ D Embedded Module
 K Wilderness Labs Wifi Bluetooth Module
 $ENDCMP
 #
+$CMP SW_434153017835
+D SWITCH TACTILE SPST-NO 0.05A 12V
+K Tactile Switch SPST-NO Top Actuated Surface Mount
+F https://www.we-online.de/katalog/datasheet/434153017835.pdf
+$ENDCMP
+#
 $CMP SW_KMR211NG
 D SWITCH TACTILE SPST-NO 0.05A 32V
 K Tactile Switch SPST-NO Top Actuated Surface Mount
