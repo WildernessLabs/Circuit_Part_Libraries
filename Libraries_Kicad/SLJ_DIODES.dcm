@@ -42,4 +42,10 @@ K LED ORANGE CLEAR 0402 SMD
 F https://everlightamericas.com/index.php?controller=attachment&id_attachment=885
 $ENDCMP
 #
+$CMP LTST-C19HE1WT
+D Red, Green, Blue (RGB) 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2.1V Red, 3.35V Green, 3.35V Blue 0606 (1616 Metric)
+K LED RGB DIFFUSED CHIP SMD
+F https://optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf
+$ENDCMP
+#
 #End Doc Library
