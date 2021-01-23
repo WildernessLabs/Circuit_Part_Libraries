@@ -6,8 +6,26 @@ K Pad Test point
 F ~
 $ENDCMP
 #
+$CMP CAST_0.6X0.8MM
+D Castelation 0.6MM hole bottom pad  0.6 X 0.8 top 0.4x0.6MM
+K Castelation 0.6MM hole bottom pad  0.6 X 0.8 top 0.4x0.6MM
+F ~
+$ENDCMP
+#
 $CMP EmbedMeadow
 D Schmatic symbol for the pins
+$ENDCMP
+#
+$CMP MEADOWF7MICRO_WITH_CAST_OUTLINE
+D F7 micro development kit castilations
+K STm32F7 Meadow
+F https://store.wildernesslabs.co/collections/frontpage/products/meadow-f7
+$ENDCMP
+#
+$CMP MTGP356H254
+D 3.56mm(0.14") pad 2.54MM(0.1") hole
+K mounting hole
+F ~
 $ENDCMP
 #
 $CMP MTH_3.3MM_5.7MM
@@ -18,6 +36,12 @@ $ENDCMP
 $CMP Meadow_Embedded_Module
 D Embedded Module
 K Wilderness Labs Wifi Bluetooth Module
+$ENDCMP
+#
+$CMP MountingHole_Pad
+D Mounting Hole with connection
+K mounting hole
+F ~
 $ENDCMP
 #
 $CMP SW_434153017835
