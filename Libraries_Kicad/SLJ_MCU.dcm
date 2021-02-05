@@ -6,4 +6,10 @@ K WIFI BLUETOOTH ESP32
 F https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf
 $ENDCMP
 #
+$CMP STM32F777IIKx
+D ARM Cortex-M7 MCU, 2048KB flash, 384KB RAM, 216MHz, 1.7-3.6V, 140 GPIO, UFBGA-176
+K ARM Cortex-M7 STM32F7 STM32F7x7
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00225424.pdf
+$ENDCMP
+#
 #End Doc Library
