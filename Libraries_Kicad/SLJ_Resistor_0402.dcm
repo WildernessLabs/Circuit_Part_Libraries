@@ -54,6 +54,12 @@ K 20 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q20
 F ~
 $ENDCMP
 #
+$CMP R_22_1%_0402
+D RES SMD 22 OHM 1% 1/16W 0402
+K 22 ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film
+F ~
+$ENDCMP
+#
 $CMP R_22k_1%_0402
 D RES SMD 22K OHM 1% 1/16W 0402
 K 22 ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) - Thick Film
