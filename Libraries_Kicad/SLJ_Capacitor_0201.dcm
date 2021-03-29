@@ -42,10 +42,4 @@ K CAP CER 8pF 50V C0G 0201
 F ~
 $ENDCMP
 #
-$CMP C_0402_0.1UF_25V_X7R
-D CAP CER 0.1UF 25V X7R 0402
-K ±20% 25V Ceramic Capacitor X7R 0402 (1005 Metric)
-F ~
-$ENDCMP
-#
 #End Doc Library

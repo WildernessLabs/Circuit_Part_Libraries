@@ -18,6 +18,12 @@ K IC BATT CNTL LI-ION 1CEL SOT23-5
 F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73831-Family-Data-Sheet-DS20001984H.pdf
 $ENDCMP
 #
+$CMP MIC2005-1.2YM6-TR
+D IC PWR SWITCH P-CHAN 1:1 SOT23-6
+K Power Switch/Driver 1:1 P-Channel 1.2A SOT-23-6
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MIC20XX-Fixed-and-Adjustable-Current-Limiting-Power-Distribution-Switches-DS20006486B.pdf
+$ENDCMP
+#
 $CMP MIC2026-1YM
 D IC PWR SWITCH N-CHAN 1:2 8SOIC
 K Dual Power Switch/Driver USB

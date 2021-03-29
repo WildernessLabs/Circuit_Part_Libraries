@@ -36,6 +36,12 @@ K 12kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q20
 F ~
 $ENDCMP
 #
+$CMP R_1K5_1%_0402
+D RES SMD 1.5K OHM 1% 1/16W 0402
+K 1.5 ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film
+F ~
+$ENDCMP
+#
 $CMP R_1K_1%_0402
 D RES 1K OHM 1% 1/16W 0402
 K 1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film
@@ -87,6 +93,12 @@ $ENDCMP
 $CMP R_49R9_1%_0402
 D RES SMD 49.9 OHM 1% 1/10W 0402
 K 49.9 Ohms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film
+F ~
+$ENDCMP
+#
+$CMP R_4K7_1%_0402
+D RES 4.7K OHM 1% 1/16W 0402
+K 4.7 ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film
 F ~
 $ENDCMP
 #

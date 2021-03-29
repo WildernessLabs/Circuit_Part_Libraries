@@ -18,4 +18,10 @@ K CRYSTAL 25.0000MHZ 6PF SMD
 F https://abracon.com/Resonators/ABM12W.pdf
 $ENDCMP
 #
+$CMP ECS-80-12-33Q-GN-TR
+D CRYSTAL 8.0000MHZ 12PF SMD
+K ±30ppm Crystal 12pF 4-SMD, No Lead
+F https://ecsxtal.com/store/pdf/ECX-33Q.pdf
+$ENDCMP
+#
 #End Doc Library
