@@ -44,6 +44,12 @@ K mounting hole
 F ~
 $ENDCMP
 #
+$CMP PAD_0.6X0.6MM
+D PAD 0.6MM X 0.6MM
+K Pad Test point
+F ~
+$ENDCMP
+#
 $CMP SW_434153017835
 D SWITCH TACTILE SPST-NO 0.05A 12V
 K Tactile Switch SPST-NO Top Actuated Surface Mount

@@ -6,6 +6,12 @@ K IC PWR SWITCH P-CHANNEL 1:1 6DFN
 F https://www.diodes.com/assets/Datasheets/AP2141D_51D.pdf
 $ENDCMP
 #
+$CMP LDL212PV33R
+D Linear Voltage Regulator IC Positive Fixed Output 1.2A 6-DFN (2x2)
+K IC REG LINEAR 3.3V 1.2A 6DFN
+F https://www.st.com/resource/en/datasheet/ldl212.pdf
+$ENDCMP
+#
 $CMP LM1117-3.3
 D 800mA Low-Dropout Linear Regulator, 1.8V fixed output, TO-220/TO-252/TO-263/SOT-223
 K linear regulator ldo fixed positive

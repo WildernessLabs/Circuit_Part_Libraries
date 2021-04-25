@@ -22,4 +22,10 @@ D FLASH - NOR Memory IC 256Mb (32M x 8) SPI - Quad I/O, QPI 133MHz 24-BGA (6x8) 
 F https://www.cypress.com/file/316171/download
 $ENDCMP
 #
+$CMP W25Q512JVBIQ
+D FLASH - NOR Memory IC 512Mb (32M x 8) SPI - Quad I/O, QPI 133MHz 24-BGA (6x8) DUAL FOOTPRINT SYMBOL
+K IC FLSH 512MBIT SPI/QUAD 24TFBGA
+F https://www.winbond.com/resource-files/W25Q512JV%20SPI%20RevB%2006252019%20KMS.pdf
+$ENDCMP
+#
 #End Doc Library
