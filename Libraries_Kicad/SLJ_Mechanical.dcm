@@ -16,6 +16,10 @@ $CMP EmbedMeadow
 D Schmatic symbol for the pins
 $ENDCMP
 #
+$CMP EmbedMeadowV2
+D Version 2 Schmatic symbol for the pins
+$ENDCMP
+#
 $CMP MEADOWF7MICRO_WITH_CAST_OUTLINE
 D F7 micro development kit castilations
 K STm32F7 Meadow
