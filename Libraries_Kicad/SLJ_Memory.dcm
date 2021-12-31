@@ -6,6 +6,12 @@ K EEPROM Memory IC 512Kb (64K x 8) I²C 1MHz 400ns 8-SOIJ
 F https://ww1.microchip.com/downloads/en/DeviceDoc/21754M.pdf
 $ENDCMP
 #
+$CMP APS25608N
+D PSRAM 256K OCTAL SPI
+K PSRAM Memory IC 256Kb (32K x 8) OCTAL SPI 
+F https://www.apmemory.com/wp-content/uploads/APM_PSRAM_OPI_Xccela-APS25608N-OBRx-v1.0-PKG.pdf
+$ENDCMP
+#
 $CMP IS42S16160J-7BLI
 D SDRAM Memory IC 256Mb (16M x 16) Parallel 143MHz 5.4ns 54-TFBGA (8x8)
 F http://www.issi.com/WW/pdf/42-45S83200J-16160J.pdf
